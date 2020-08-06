@@ -17,9 +17,15 @@
 
 }
 .jumbotron-2 {
-    mh-90
+    mh-90;
 
 }
 .jumbotron-visina1{
-height: 100%
+height: 100%;
 }
+
+
+.jumbotron-providan {
+    background-color: rgba(245, 245, 245, 0.4);
+    padding: 3px;
+ };
